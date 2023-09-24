@@ -1,4 +1,5 @@
 import React, { useState } from "react";
+import './Chat.css'
 import userImg from "../images/user.png";
 import botImg from "../images/bot.png";
 import loadingImg from "../images/loader.svg";
